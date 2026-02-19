@@ -1,0 +1,7 @@
+control_id,month,tests_executed,failures
+C001,Jan,100,5
+C001,Feb,120,8
+C001,Mar,110,6
+C002,Jan,80,10
+C002,Feb,95,12
+C002,Mar,90,7
